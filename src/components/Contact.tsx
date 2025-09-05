@@ -82,8 +82,8 @@ const managementTeam = [
   },
   {
     name: 'श्री उत्सव भट्टराई',
-    position: 'Accounts & Technical Lead',
-    phone: '+977-98XXXXXXXX',
+    position: 'Manager',
+    phone: '+977-9860435973',
   },
 ];
 
@@ -101,10 +101,10 @@ const managementTeam = [
           </p>
         </div>
 
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 mb-12">
+        <div className=" gap-12 mb-12">
           {/* Contact Information */}
           <div>
-            <h2 className={`text-2xl font-bold text-gray-800 mb-6 ${isNepali ? 'nepali-text' : ''}`}>
+            {/* <h2 className={`text-2xl font-bold text-gray-800 mb-6 ${isNepali ? 'nepali-text' : ''}`}>
               {t('contact.getInTouch')}
             </h2>
             <div className="space-y-6">
@@ -128,7 +128,7 @@ const managementTeam = [
                   </div>
                 );
               })}
-            </div>
+            </div> */}
           </div>
 
           {/* Contact Form */}

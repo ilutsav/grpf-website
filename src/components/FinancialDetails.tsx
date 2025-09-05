@@ -47,7 +47,7 @@ const FinancialDetails: React.FC = () => {
         </div>
 
         {/* Collection Data */}
-        <div className="mb-12">
+        {/* <div className="mb-12">
           <h2 className={`text-2xl font-bold text-gray-800 mb-6 ${isNepali ? 'nepali-text' : ''}`}>
             {t('financial.collection2081')}
           </h2>
@@ -68,7 +68,7 @@ const FinancialDetails: React.FC = () => {
               type="success"
             />
           </div>
-        </div>
+        </div> */}
 
         {/* Bank and Capital Status */}
         <div className="mb-12">
@@ -95,7 +95,7 @@ const FinancialDetails: React.FC = () => {
         </div>
 
         {/* Per Person Calculation */}
-        <div className="mb-12">
+        {/* <div className="mb-12">
           <h2 className={`text-2xl font-bold text-gray-800 mb-6 ${isNepali ? 'nepali-text' : ''}`}>
             {t('financial.perPersonCalculation')}
           </h2>
@@ -110,7 +110,7 @@ const FinancialDetails: React.FC = () => {
               />
             ))}
           </div>
-        </div>
+        </div> */}
 
         {/* Overall Calculation for 41 Members */}
         {/* <div className="mb-12">
