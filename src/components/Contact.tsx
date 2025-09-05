@@ -1,5 +1,5 @@
 import { useTranslation } from 'react-i18next';
-import { Phone, Mail, MapPin, Clock, Users, Send } from 'lucide-react';
+import { MapPin, Clock, Users, Send } from 'lucide-react';
 import { useState } from 'react';
 
 const Contact: React.FC = () => {
@@ -86,6 +86,7 @@ const managementTeam = [
     phone: '+977-9860435973',
   },
 ];
+//changes
 
 
   return (

@@ -7,13 +7,6 @@ const FinancialDetails: React.FC = () => {
   const currency = t('dashboard.currency');
 
   // Detailed financial data based on the budget overview
-  const collectionData = [
-    { title: t('financial.monthlyPayment'), amount: 984000 },
-    { title: t('financial.fineCollection'), amount: 2000 },
-    { title: t('financial.serviceRenewalCharge'), amount: 58000 },
-    { title: t('financial.interestFromLoan'), amount: 525786 },
-    { title: t('financial.interestFromBank'), amount: 18822 },
-  ];
 
   const bankCapitalData = [
     { title: t('financial.loanProvided'), amount: 5880000 },
@@ -21,11 +14,7 @@ const FinancialDetails: React.FC = () => {
     { title: t('financial.expensesInSalary'), amount: 26000 },
   ];
 
-  const perPersonData = [
-    { title: t('financial.previousYearCapital'), amount: 138028 },
-    { title: t('financial.amountDeposited2080'), amount: 24000 },
-    { title: t('financial.totalCapitalPerPerson'), amount: 162028 },
-  ];
+
 
   const projectionData = [
     { title: t('financial.meetingExpenses'), amount: 77000 },
