@@ -26,28 +26,28 @@ const Contact: React.FC = () => {
     }));
   };
 
-  const contactInfo = [
-    {
-      icon: Phone,
-      title: t('contact.phone'),
-      details: ['+977-1-XXXXXXX', '+977-98XXXXXXXX'],
-    },
-    {
-      icon: Mail,
-      title: t('contact.email'),
-      details: ['info@grpf.org.np', 'contact@grpf.org.np'],
-    },
-    {
-      icon: MapPin,
-      title: t('contact.address'),
-      details: [t('contact.addressLine1'), t('contact.addressLine2')],
-    },
-    {
-      icon: Clock,
-      title: t('contact.officeHours'),
-      details: [t('contact.weekdays'), t('contact.weekends')],
-    },
-  ];
+//   const contactInfo = [
+//     {
+//       icon: Phone,
+//       title: t('contact.phone'),
+//       details: ['+977-1-XXXXXXX', '+977-98XXXXXXXX'],
+//     },
+//     {
+//       icon: Mail,
+//       title: t('contact.email'),
+//       details: ['info@grpf.org.np', 'contact@grpf.org.np'],
+//     },
+//     {
+//       icon: MapPin,
+//       title: t('contact.address'),
+//       details: [t('contact.addressLine1'), t('contact.addressLine2')],
+//     },
+//     {
+//       icon: Clock,
+//       title: t('contact.officeHours'),
+//       details: [t('contact.weekdays'), t('contact.weekends')],
+//     },
+//   ];
 
 const managementTeam = [
   {
