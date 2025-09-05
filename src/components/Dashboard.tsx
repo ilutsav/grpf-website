@@ -10,7 +10,7 @@ const DashboardContent: React.FC = () => {
     totalCapital: 7196529,
     grossProfit: 604608,
     expenses: 26000, // Salary of Utsav 12 month @ 2000
-    netProfit: 578608, // grossProfit - expenses
+    netProfit: 578608, // grossProfit 
     netCapital: 6617921,
     perPersonSaving: 162005,
     salaryAmount: 2000,
