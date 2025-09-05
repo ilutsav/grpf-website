@@ -5,7 +5,7 @@ import type { FinanceData } from '../types';
 const DashboardContent: React.FC = () => {
   const { t, i18n } = useTranslation();
   
-  // Your family finance data
+  // Your family finance 
   const financeData: FinanceData = {
     totalCapital: 7196529,
     grossProfit: 604608,
