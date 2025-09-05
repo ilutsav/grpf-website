@@ -8,4 +8,4 @@ A beautiful, responsive financial dashboard for Global Relation Provisional Fund
 - 🌍 **Bilingual Support**: Switch between English and Nepali languages
 - 📱 **Mobile Responsive**: Optimized for all device sizes
 - 🎨 **Modern UI**: Clean, professional design with smooth animations
-- ⚡ **Fast Performance**: Built with Vite for optimal loading speeds
+- ⚡ **Fast Performance**: Built with Vite for optimal loading speed
